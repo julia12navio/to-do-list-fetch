@@ -1,6 +1,6 @@
 # 📝 ToDo List con React + API
 
-Aplicación de lista de tareas construida con **React** que se sincroniza en tiempo real con la API pública de [4Geeks Playground](https://playground.4geeks.com/todo).  
+Aplicación de lista de tareas construida con **React** que se sincroniza en tiempo real con la API pública de 4Geeks Playground.  
 
 Permite:
 - ➕ Añadir nuevas tareas (persistidas en el backend).  
@@ -16,7 +16,7 @@ Permite:
 - [React](https://react.dev/) (hooks, estados y efectos).  
 - [Bootstrap](https://getbootstrap.com/) para estilos y componentes base.  
 - [Fetch API](https://developer.mozilla.org/es/docs/Web/API/Fetch_API) para las peticiones HTTP.  
-- [4Geeks ToDo API](https://playground.4geeks.com/todo) como backend.
+- 4Geeks ToDo API como backend.
 
 ---
 
